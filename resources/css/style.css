@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box sizing: border-box;
+  text-decoration: none;
+  }
+
+/* command/ is a shortcut */
+
+body {
+  font-family: Verdana;
+  font-size: 22px;
+  background-color: black;
+  text-align: center;
+  }
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  color: white;
+  padding: 50px 30px;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
